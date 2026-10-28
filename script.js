@@ -1,5 +1,6 @@
   //  1. Sélection des éléments
   
+  
 const modale = document.querySelector("#modale");
 const ouvrir = document.querySelector("#ouvrir");
 const fermer = document.querySelector("#fermer");
